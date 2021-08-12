@@ -12,3 +12,5 @@ export const page = StyleSheet.create({
     height: 100,
   },
 });
+
+export const overlayColor = "rgba(255,255,255,0)";

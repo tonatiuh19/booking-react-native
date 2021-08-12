@@ -7,8 +7,7 @@
     "default": {
       "customTemplates": {
         "component": "components/templates/component/TemplateName.tsx",
-        "style": "components/templates/component/TemplateName.style.tsx",
-        "test": "templates/component/TemplateName.test.tsx"
+        "style": "components/templates/component/TemplateName.style.tsx"
       },
       "path": "components",
       "withStyle": true,
@@ -18,13 +17,14 @@
     },
     "page": {
       "customTemplates": {
-        "test": "templates/page/TemplateName.test.js"
+        "component": "components/templates/component/TemplateName.tsx",
+        "style": "components/templates/component/TemplateName.style.tsx"
       },
-      "path": "src/pages",
-      "withLazy": true,
-      "withStory": false,
+      "path": "screens",
       "withStyle": true,
-      "withTest": true
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false
     }
   }
 }

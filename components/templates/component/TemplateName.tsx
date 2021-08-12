@@ -4,7 +4,7 @@ import { page } from "./TemplateName.style";
 
 const TemplateName = () => {
   return (
-    <View data-testid="TemplateName" style={page.container}>
+    <View style={page.container}>
       <Text>TemplateName component</Text>
     </View>
   );

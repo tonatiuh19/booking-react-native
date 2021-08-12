@@ -1,0 +1,421 @@
+{
+  "dataPlaces": [
+    {
+      "id": 1100,
+      "type": 1,
+      "id_user": 2,
+      "title": "Hotel Bonito",
+      "price": 850,
+      "placeDescription": "<p>El Hotel Bonito ofrece una c&oacute;moda ubicaci&oacute;n en la playa, en Zona privilegiada. Esta zona de Mazatl&aacute;n destaca por la proximidad al aeropuerto.&nbsp;</p> <ul> <li>Todo incluido</li> <li>Alberca</li> <li>Aire acondicionado</li> <li>Spa</li> <li>Lavander&iacute;a</li> <li>Restaurante</li> </ul> <p>&iquest;Viajas con ni&ntilde;os? Pues ll&eacute;valos a nuestro Parque acu&aacute;tico y, si te apetece disfrutar de un evento o un partido, consulta el calendario de Estadio Teodoro Mariscal.</p> <p>En las inmediaciones podr&aacute;s practicar actividades como esn&oacute;rquel, paravelismo y vela, as&iacute; que disfrutar&aacute;s como nunca en el agua.</p>",
+      "locationCity": "Mazatlan",
+      "locationState": "Sinaloa",
+      "lat": "23.2313053",
+      "long": "-106.4153144",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/1100/1100_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/1100/1100_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/1100/1100_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 1101,
+      "type": 1,
+      "id_user": 2,
+      "title": "Hotel Mas Bonito",
+      "price": 950,
+      "placeDescription": "<p>Hotel Mas Bonito se encuentra en Puerto Vallarta, en la zona de Zona Dorada, que est&aacute; en la playa. Ac&eacute;rcate a atracciones tur&iacute;sticas</p> <ul> <li>Todo incluido</li> <li>Alberca</li> <li>Aire acondicionado</li> <li>Spa</li> <li>Lavander&iacute;a</li> <li>Restaurante</li> <li>Casino</li> </ul> <p>En las inmediaciones podr&aacute;s practicar actividades como esn&oacute;rquel, paravelismo y vela, as&iacute; que disfrutar&aacute;s como nunca en el agua.</p>",
+      "locationCity": "Puerto Vallarta",
+      "locationState": "Jalisco",
+      "lat": "20.6407176",
+      "long": "-105.220306",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/1101/1101_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/1101/1101_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/1101/1101_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 1102,
+      "type": 1,
+      "id_user": 2,
+      "title": "Hotel Menos Bonito",
+      "price": 800,
+      "placeDescription": "<p>Hotel Menos Bonito se encuentra en la ciudad de Puerto Vallarta, en la zona de Zona Dorada, que est&aacute; en la playa. Ac&eacute;rcate a atracciones tur&iacute;sticas</p> <ul> <li>Todo incluido</li> <li>Alberca</li> <li>Aire acondicionado</li> </ul> <p>En las inmediaciones podr&aacute;s practicar actividades como esn&oacute;rquel, paravelismo y vela, as&iacute; que disfrutar&aacute;s como nunca en el agua.</p>",
+      "locationCity": "Puerto Vallarta",
+      "locationState": "Jalisco",
+      "lat": "20.6407176",
+      "long": "-105.220306",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/1102/1102_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/1102/1102_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/1102/1102_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 1103,
+      "type": 1,
+      "id_user": 2,
+      "title": "Hotel A veces Bonito",
+      "price": 650,
+      "placeDescription": "<div> <div>Hotel A veces Bonito se encuentra en Puerto Vallarta, en la playa. Bah&iacute;a de Banderas son excelentes opciones para los que buscan unas vacaciones activas, por si prefieres sumergirte en la naturaleza.</div> </div> <ul> <li>Todo incluido</li> <li>Alberca</li> <li>Aire acondicionado</li> <li>Spa</li> <li>Lavander&iacute;a</li> <li>Restaurante</li> <li>Casino</li> </ul> <p>Dedica algo de tiempo a descubrir cu&aacute;les son las actividades de la zona, entre las que se incluye el golf.</p>",
+      "locationCity": "Puerto Vallarta",
+      "locationState": "Jalisco",
+      "lat": "20.6407176",
+      "long": "-105.220306",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/1103/1103_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/1103/1103_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/1103/1103_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 1104,
+      "type": 1,
+      "id_user": 2,
+      "title": "Hotel Siempre Bonito",
+      "price": 1850,
+      "placeDescription": "<div> <div> <div>Hotel Siempre Bonito se encuentra en Mazatl&aacute;n y cuenta con f&aacute;cil acceso a un centro comercial. Adem&aacute;s de visitar lugares emblem&aacute;ticos como la Plaza y El Faro.</div> </div> </div> <ul> <li>Alberca</li> <li>Aire acondicionado</li> <li>Spa</li> <li>Lavander&iacute;a</li> <li>Restaurante</li> <li>Casino</li> </ul> <p>Podr&aacute;s apreciar la belleza natural de Playa de Cerritos o Playa Brujas. No olvides visitar el Acuario: &iexcl;te encantar&aacute;!</p>",
+      "locationCity": "Mazatlan",
+      "locationState": "Sinaloa",
+      "lat": "23.2313053",
+      "long": "-106.4153144",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/1104/1104_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/1104/1104_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/1104/1104_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 1105,
+      "type": 1,
+      "id_user": 2,
+      "title": "Hotel Bonito en otra ciudad",
+      "price": 850,
+      "placeDescription": "<p>El Hotel Bonito ofrece una c&oacute;moda ubicaci&oacute;n en la playa, en Zona privilegiada. Esta zona de Mazatl&aacute;n destaca por la proximidad al aeropuerto.&nbsp;</p> <ul> <li>Todo incluido</li> <li>Alberca</li> <li>Aire acondicionado</li> <li>Spa</li> <li>Lavander&iacute;a</li> <li>Restaurante</li> </ul> <p>&iquest;Viajas con ni&ntilde;os? Pues ll&eacute;valos a nuestro Parque acu&aacute;tico y, si te apetece disfrutar de un evento o un partido, consulta el calendario de Estadio Teodoro Mariscal.</p> <p>En las inmediaciones podr&aacute;s practicar actividades como esn&oacute;rquel, paravelismo y vela, as&iacute; que disfrutar&aacute;s como nunca en el agua.</p>",
+      "locationCity": "Cancun",
+      "locationState": "Quintana Roo",
+      "lat": "21.1617854",
+      "long": "-86.8510468",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/1105/1105_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/1105/1105_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/1105/1105_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2100,
+      "type": 2,
+      "id_user": 2,
+      "title": "Departamento Bonito",
+      "price": 780,
+      "placeDescription": "<p>La playa est&aacute; a solo 10 minutos a pie y el ferry a Isla Mujeres est&aacute; a 800 metros si desea visitar la isla.</p> <p>El apartamento estudio, la cocina y el ba&ntilde;o son privados, pero las &aacute;reas comunes (pasillos, piscina, terraza) son compartidas.</p> <p>No tenemos estacionamiento, pero siempre hay espacio en la calle. No hay estufa por razones de seguridad. Nuestro lugar tiene 2 a&ntilde;os, bastante nuevo y bien cuidado.</p> <div> <ul> <li>Wifi</li> <li>Secador de pelo</li> <li>&Aacute;rea para trabajar</li> <li>Disponible para estancias largas</li> </ul> </div>",
+      "locationCity": "Cancun",
+      "locationState": "Quintana Roo",
+      "lat": "21.1617854",
+      "long": "-86.8510468",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/2100/2100_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/2100/2100_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/2100/2100_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2101,
+      "type": 2,
+      "id_user": 2,
+      "title": "Departamento Mas Bonito",
+      "price": 880,
+      "placeDescription": "<p>C&oacute;modo y limpio departamento en Monterrey, con un estilo pensado para que disfrutes tu estancia al m&aacute;ximo.</p> <p>Excelente ubicaci&oacute;n, aqu&iacute; encuentras de todo, accesos r&aacute;pidos a muchos establecimientos de comida, supermercados y de diversi&oacute;n. Enfrente contamos con un hermoso parque para pasear y/o hacer ejercicio</p> <div> <div> <ul> <li>Cocina</li> <li>Wifi</li> <li>Estacionamiento gratuito en las instalaciones</li> <li>Secador de pelo</li> <li>&Aacute;rea para trabajar</li> <li>Disponible para estancias largas</li> </ul> </div> </div>",
+      "locationCity": "Puerto Vallarta",
+      "locationState": "Jalisco",
+      "lat": "20.6407176",
+      "long": "-105.220306",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/2101/2101_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/2101/2101_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/2101/2101_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2102,
+      "type": 2,
+      "id_user": 2,
+      "title": "Departamento Menos Bonito",
+      "price": 580,
+      "placeDescription": "<p>Departamento peque&ntilde;o, con entrada independiente. A 500 metros de la Plaza y a 100 metros del Centro Comercial. A 300 metros de estaci&oacute;n del metro. Acceso a vialidades r&aacute;pidas.</p> <p>Situado en una colonia tranquila y segura. Cuenta con microondas, estufa, enseres de cocina, TV, aire acondicionado y calefacci&oacute;n, abanicos de techo. Mosquiteros en puerta y ventanas.</p> <div> <div> <ul> <li>Cocina</li> <li>Wifi</li> <li>Estacionamiento gratuito en las instalaciones</li> <li>TV</li> <li>Aire acondicionado</li> <li>Secador de pelo</li> <li>&Aacute;rea para trabajar</li> <li>Disponible para estancias largas</li> </ul> </div> </div>",
+      "locationCity": "Mazatlan",
+      "locationState": "Sinaloa",
+      "lat": "23.2313053",
+      "long": "-106.4153144",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/2102/2102_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/2102/2102_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/2102/2102_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3100,
+      "type": 3,
+      "id_user": 2,
+      "title": "Casa Bonita",
+      "price": 3100,
+      "placeDescription": "<p>Casa Bonita esta ubicada en Cancun, Quintana Roo.</p> <p>Atracciones tur&iacute;sticas de la talla de parques acuaticos antes de sumergirte en la belleza natural de la regi&oacute;n en las diferentes parques protegidos. Los diferentes cenotes tambi&eacute;n merecen la pena.</p> <ul> <li>Cocina</li> <li>Mascotas</li> <li>Aire acondicionado</li> <li>Lavadora</li> <li>Secadora</li> <li>&Aacute;rea exterior</li> </ul>",
+      "locationCity": "Cancun",
+      "locationState": "Quintana Roo",
+      "lat": "21.1617854",
+      "long": "-86.8510468",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/3100/3100_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/3100/3100_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/3100/3100_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3101,
+      "type": 3,
+      "id_user": 2,
+      "title": "Casa Mas Bonita",
+      "price": 5100,
+      "placeDescription": "<p>En esta casa de vacaciones para no fumadores tendr&aacute;s una zona recreativa o sala de juegos y un jard&iacute;n a tu disposici&oacute;n. Esta casa de vacaciones cuenta con cafetera y tetera y minicocina con frigor&iacute;fico y microondas. Tambi&eacute;n podr&aacute;s disfrutar de hervidor el&eacute;ctrico, secadores de pelo y duchas.</p> <div>La limpieza se efect&uacute;a con desinfectante</div> <div>Las superficies de contacto habitual se limpian y desinfectan</div> <div>Las s&aacute;banas y las toallas se lavan a 60&deg; C o m&aacute;s</div> <ul> <li>Cocina</li> <li>Aire acondicionado</li> <li>&Aacute;rea exterior</li> </ul>",
+      "locationCity": "Puerto Vallarta",
+      "locationState": "Jalisco",
+      "lat": "20.6407176",
+      "long": "-105.220306",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/3101/3101_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/3101/3101_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/3101/3101_3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3102,
+      "type": 3,
+      "id_user": 2,
+      "title": "Casa Menos Bonita",
+      "price": 1099,
+      "placeDescription": "<p>Esta casa de vacaciones se encuentra en Mazatlan. Los puertos son excelentes opciones para los que buscan unas vacaciones activas, pero si prefieres sumergirte en la naturaleza, la playa y los rios son lo que necesitas.</p> <p>&iquest;Te apetece disfrutar de un evento o un partido? Puedes buscar el calendario de Circuito y casino Gulfstream Park. Intenta sacar tiempo para pasar por Museo de Descubrimiento y Ciencia, que tambi&eacute;n merece la pena.</p> <ul> <li>Cocina</li> <li>Aire acondicionado</li> <li>&Aacute;rea exterior</li> </ul>",
+      "locationCity": "Mazatlan",
+      "locationState": "Sinaloa",
+      "lat": "23.2313053",
+      "long": "-106.4153144",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://disruptinglabs.com/BookingRN/3102/3102_1.jpeg"
+        },
+        {
+          "id": 2,
+          "url": "https://disruptinglabs.com/BookingRN/3102/3102_2.jpeg"
+        },
+        {
+          "id": 3,
+          "url": "https://disruptinglabs.com/BookingRN/3102/3102_3.jpeg"
+        }
+      ]
+    }
+  ],
+  "dataReservations": [
+    {
+      "id": 1234,
+      "id_user": 1,
+      "id_place": 2100,
+      "date_check_in": "10/08/2021",
+      "date_check_out": "10/14/2021",
+      "complete": 1,
+      "name": "Gonzalez Fitzpatrick",
+      "email": "gonzalezfitzpatrick@nebulean.com"
+    },
+    {
+      "id": 1235,
+      "id_user": 1,
+      "id_place": 1100,
+      "date_check_in": "08/08/2021",
+      "date_check_out": "08/14/2021",
+      "complete": 0,
+      "name": "William Lambert",
+      "email": "williamlambert@nebulean.com"
+    },
+    {
+      "id": 1238,
+      "id_user": 2,
+      "id_place": 2100,
+      "date_check_in": "08/10/2021",
+      "date_check_out": "08/14/2021",
+      "complete": 0,
+      "name": "Tisha Garza",
+      "email": "tishagarza@nebulean.com"
+    },
+    {
+      "id": 2642,
+      "id_user": 1,
+      "id_place": 1100,
+      "date_check_in": "10/02/2021",
+      "date_check_out": "10/23/2021",
+      "complete": 0,
+      "name": "Tonatiuh Gomez",
+      "email": "test@gmail.com"
+    }
+  ],
+  "dataUserCards": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "card": "XXXX XXXX XXXX 4900",
+      "active": 0,
+      "type": "mastercard"
+    },
+    {
+      "id": 2,
+      "id_user": 1,
+      "card": "XXXX XXXX XXXX 1800",
+      "active": 0,
+      "type": "visa"
+    },
+    {
+      "id": 3,
+      "id_user": 2,
+      "card": "XXXX XXXX XXXX 8900",
+      "active": 1,
+      "type": "visa"
+    },
+    {
+      "id": 7492,
+      "id_user": 1,
+      "card": "4242 4242 4242 4242",
+      "type": "visa",
+      "active": 0
+    },
+    {
+      "id": 1106,
+      "id_user": 1,
+      "card": "XXXX XXXX XXXX 1881",
+      "type": "visa",
+      "active": 1
+    }
+  ],
+  "dataUsers": [
+    {
+      "id": 1,
+      "name": "Tonatiuh",
+      "last_name": "Gomez",
+      "email": "booking-course@disruptinglabs.com",
+      "password": "123456",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "name": "Felix",
+      "last_name": "Gomez",
+      "email": "courses@disruptinglabs.com",
+      "password": "123456",
+      "type": 2
+    },
+    {
+      "id": 6237,
+      "name": "Alejandro",
+      "last_name": "Briones",
+      "email": "test@domain.com",
+      "password": "12345",
+      "type": 1
+    }
+  ]
+}
